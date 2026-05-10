@@ -60,6 +60,7 @@ Tasks performed:
 Loading CSV data
 Checking structure and schema
 Understanding variable distributions
+
 2. Data Cleaning
 
 Data preprocessing was performed to ensure consistency and accuracy.
@@ -71,6 +72,7 @@ Removing duplicates
 Standardizing data formats
 Correcting inconsistent entries
 Preparing data for SQL import
+
 3. Exploratory Data Analysis (EDA)
 
 EDA was performed to identify trends, anomalies, and relationships within the dataset.
